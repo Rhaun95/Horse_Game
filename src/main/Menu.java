@@ -5,3 +5,4 @@ public class Menu extends Frame {
 		new Menu();
 	}
 }
+

@@ -1,6 +1,1 @@
-# MyHorse
-ProjectMyHorse
-
-
-내말 추가안됨
-라인안뜸
+### CLI based RPG horse race game
